@@ -4,7 +4,7 @@ image:
   repository: https://artemis-dev.awsalinamihailenco.com/
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "9.0.0"
+  tag: "a622432f31272e5f74277dd94752614af5a1c2a5"
 
 service:
   type: ClusterIP
