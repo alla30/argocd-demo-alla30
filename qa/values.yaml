@@ -1,10 +1,10 @@
 replicaCount: 3
 
 image:
-  repository: https://artemis-qa.awsalinamihailenco.com/
+  repository: 456d339fe6a0222d119cd1e747b1a0d00998e169
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "a622432f31272e5f74277dd94752614af5a1c2a5"
+  tag: "9.0.0"
 
 service:
   type: ClusterIP
